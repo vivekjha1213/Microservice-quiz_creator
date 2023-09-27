@@ -10,7 +10,7 @@ public class QuizServicesApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(QuizServicesApplication.class, args);
-		System.out.println("Quiz  App is Running.......");
+		System.out.println("Quiz  App is Running..........");
 	}
 
 }
